@@ -1,0 +1,39 @@
+body {
+    background-image: url(./pic.jpg);
+    background-size: 1370px 625px;
+    background-repeat: no-repeat;    
+}
+
+p {
+    font-size: 60px;
+    margin-top: 230px;
+    margin-left: 190px;
+    display: flex;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+  }
+  
+.btn {
+    margin-left: 170px;
+    width: 100px;
+    height: 50px;
+    color: black;
+    font-weight: 900;
+    background-color: green;
+}
+
+.bttn {
+    width: 100px;
+    height: 50px;
+    color: black;
+    font-weight: 900;
+    background-color: red;
+}
+
+.btttn {
+    width: 100px;
+    height: 50px;
+    color: black;
+    font-weight: 900;
+    background-color: yellow;
+}
